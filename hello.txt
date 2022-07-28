@@ -6,5 +6,5 @@ hello GIT
 hello GIT
 hello GIT
 hello GIT
-hello GIT
+hello GIT hot-fix test
 22222222
